@@ -3,7 +3,7 @@ React Native application for creating soccer tournaments and guessing results
 ##### IMPORTANT : TESTED ON ANDROID ONLY
 
 #### Splash Screen
-<img src="https://github.com/itbel/bolao_legacy/blob/master/pictures/SplashScreen.jpg" alt="Splash Screen" width="250
+<img src="https://github.com/itbel/bolao_legacy/blob/master/pictures/SplashScreen.jpg" alt="Splash Screen" width="250"/>
 
 #### Register Screen
 <img src="https://github.com/itbel/bolao_legacy/blob/master/pictures/RegisterScreen.jpg" alt="Register Screen" width="250"/>
